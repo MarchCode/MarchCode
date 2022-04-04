@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MarchCode
+- 👋 Hi, I’m @Carlos_Chavez from Nicaragua
 - 👀 I’m interested in learning LINUX,GIT,HTML,CSS,PYTHON,etc.
 - 🌱 I’m currently learning Linux/Git.
-- 💞️ I’m looking to collaborate on 'not at the moment'
+- 💞️ I’m looking to collaborate with anyone that help me!!
 - 📫 How to reach me Marchanta#6288 Discord.
 
 <!---
